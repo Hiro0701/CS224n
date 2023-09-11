@@ -1,0 +1,2 @@
+1. (a)
+$ -\sum_{w \in Voc}y_{w}log(\hat{y}_{w}) $
